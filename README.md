@@ -42,7 +42,7 @@
 	<a href="https://coding916.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="dydrkflqmdl@naver.com">
+	<a href="mailto:dydrkflqmdl@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<br>
